@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prouysion made by the Kynges hyghnes and his counsayll for puttynge aparte thexcessyue fare [and] redusynge the same to such moderacion as folowyngly ensueth ...</title>
+            <title>Proclamations. 1517</title>
+            <author>England. Sovereign (1509-1547 : Henry VIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1517</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21465</idno>
+            <idno type="STC">STC 7768</idno>
+            <idno type="STC">ESTC S118117</idno>
+            <idno type="EEBO-CITATION">99853326</idno>
+            <idno type="PROQUEST">99853326</idno>
+            <idno type="VID">18703</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18703)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 4:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prouysion made by the Kynges hyghnes and his counsayll for puttynge aparte thexcessyue fare [and] redusynge the same to such moderacion as folowyngly ensueth ...</title>
+                  <title>Proclamations. 1517</title>
+                  <author>England. Sovereign (1509-1547 : Henry VIII)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[Imprynted at the com[m]au[n]dement of our soueraygne lorde the knynge and his counsayl by Richarde Pynson],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1517.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The number of dishes at a meal fixed by rank.</note>
+                  <note>Imprint from colophon; publication date from STC.</note>
+                  <note>Imperfect as filmed, illegible.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dinners and dining --  England --  Early works to 1800.</term>
+               <term>Cost and standard of living --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:18703:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>¶ Prouyſion made by the Kyng hyghnes and his counſayll for puttynge a parte therceſſyue fare &amp; reduſynge the ſame to ſuch moderacion as folowyngly enſueth thobſeruaunce wherof to begyn the laſte daye of May the .ix. yere of the raygne of the Kynge nowe our Soueraygne lorde Henry the .viii.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſte that a Cardynall man haue nyne Dyſſhes at his owne meſſe at one meale beſydes potages to be ſerued in courſes at his pleaſure.</p>
+            <p>¶ Item an Archebyſſhoppe and a Duke may haue .viii. dyſſhes at theyr owne meſſes at a mele beſydes potages to be ſerued in courſes at theyr owne pleaſure.</p>
+            <p>¶ Item Marques Erlys and Byſſhoppes m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ye haue .vii. dyſſhes at theyr owne meſſes at a meale beſydes potages to be ſerued in courſes at theyr pleaſure.</p>
+            <p>¶ Item all lordes temporall vnder the degre of an Erle Abbottes beynge lordes of the Parlyament Mayres of the Cytie of London for the tyme beynge knyghtes of the garter<g ref="char:punc">▪</g> to haue .vi. dyſſhes at theyr owne meſſes at a meale beſydes pota<g ref="char:EOLhyphen"/>ges to be ſerued in courſes at theyr pleaſure.</p>
+            <p>¶ Item Iuges the chief Baron of thexchequer the kynges counſayll the Sheryffes of y<hi rend="sup">t</hi> ſayd cytie for the tyme beynge &amp; all other both ſpirituall &amp; temporall that may diſpende in l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nde<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or fees to the yerely value of .CC. li. may haue .v. dyſſhes at theyr owne meſſe at a meale beſydes potages to be ſerued as they wyll.</p>
+            <p>¶ Item all ꝑſones ſpirituall and temporall that may diſpende .C. li. by yere and nat .CC. li. may haue .iiii. diſſhes at their owne meſſe at a meale beſydes potages.</p>
+            <p>¶ Item all perſones ſpirituall and temporall that may diſpende .xl. li. by yere and nat .C. li. may haue .iii. diſſhes at their owne meſſe at a meale beſydes potages.</p>
+            <p>¶ Item all perſones ſpu<g ref="char:cmbAbbrStroke">̄</g>all and temporal hauynge goodes to the value of .MM. li. may haue lyke diſſhes / as he that may diſpende in landes to the value of .CC.li. by yere.</p>
+            <p>¶ Item all perſones ſpirituall &amp; temporall hauynge goodes to the value of .M. li. may haue lyke diſſhes / as he that may diſpende in landes .C. li. by yere.</p>
+            <p>¶ Item all perſones ſpirituall and temporall hauyng goodes to the value of v.C. li. may haue as many diſſhes as he that may diſpende .xl. li. by yere.</p>
+            <p>¶ Item if .ii. metes of one kynde be dyuerſly dreſſed / or .ii. metes of dyuerſe kyndes be ſerued in a diſſhe<g ref="char:punc">▪</g> euery of the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall ſtande for one diſſhe after the rate aboue<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayd.</p>
+            <p>¶ Item crane ſwane buſtarde peycoke and all other fowles of lyke gretnes / but one in a diſſhe.</p>
+            <p>¶ Item par<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riche plouers <abbr>wodcok</abbr> and all other wyldefowle of lyke gretnes / but .vi. in a diſſhe for a Cardynall oonly / and .iiii. in a diſſhe for all other lordes.</p>
+            <p>¶ Item quayles / dottrelles<g ref="char:punc">▪</g> ſnytes / and all other fowles of lyke gretnes but .viii. in a diſſhe.</p>
+            <p>¶ Item feſaundes gulles and all other fowles of lyke gretnes but .ii. in a diſſhe.</p>
+            <p>¶ Item larkes and all other fowles of lyke gretnes but .xii. in a diſſhe.</p>
+            <p>¶ Item all ꝑſones aforeſayd may haue leſſe diſſhes at theyr pleaſure but no more at one meale than is afore lymyted / not otherwyſe than is afore reherſayd</p>
+            <p>¶ Prouyded alwayes that at the day of Maryage of my ꝑſone he or ſhe after theyr degrees aboue the ſayd rate may haue iii. diſſhes more at a meale than is aboue lymytted after the rate.</p>
+            <p>¶ Prouyded alſo that Brawne and other entrayles of beſtes and portenaunces of beſtes and fowles oyſters cockles / muſ<g ref="char:EOLunhyphen"/>kles all whyte metes nat altred out of theyr kynde ſhall nat be taken for any diſſhe.</p>
+            <p>¶ Item .iii. Saltfyſſhes of any kynde to be accompted for one diſſhe and hauynge any mo kynde of ſaltfyſſhes / euery of them to be accompted for one dyſſhe.</p>
+            <p>¶ Item at the Receuynge &amp; feſtynge of Ambaſſarours / and noble men of outwarde parties euery man to be at his lyber<g ref="char:EOLhyphen"/>tie the rate before rated natwithſtandynge / And in ſemblable maner the <abbr>knyght</abbr> of the garter to be at their lyberties on Seynt Georges daye oonly.</p>
+            <p>¶ Item it is ordred y<hi rend="sup">t</hi> in caſe any of y<hi rend="sup">e</hi> 
+               <abbr>Eſtat</abbr> or other before reherſayd ſhall fortune to dyne or ſuppe w<hi rend="sup">t</hi> any other of a lower degre / it ſhalbe lefull to the ꝑſone or perſones with whom the ſayd Eſtates or other ſhall ſo dyne or ſuppe to ſerue them and euery of them accordynge to their degrees / after the rates before <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pecified.</p>
+            <p>¶ Fynally it is determyned that if any perſone or ꝑſones ſhall otherwyſe ordre themſelf than is conteyned in the foreſayd Rate and prouyſion And ſo folowynge theyr ſenſuall appetite ſhall violate the ſame / he or they ſo doynge ſhall nat oonly be reputed &amp; taken as a man of euyll ordre contemptuouſly diſobeyinge the direccion of the kynges hyghnes &amp; his Counſayll But alſo to be ſent for to be corrected and punyſſhed at the kynges pleaſure to the example of other that ſhal enterpreſſe any ſuche folyous and ſenſuall appetites hereafter.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprynted at the co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>dement of out Soueraygne lorde the kynge and his Counſayll by Richarde Pynſon prynter vnto his noble grace.</p>
+            <closer>¶ God ſaue the kynge.</closer>
+         </div>
+      </back>
+   </text>
+</TEI>
